@@ -18,4 +18,3 @@
 ### Languages and Tools:
 <p align="left">
     <img src="https://skillicons.dev/icons?i=linux,c,cpp,bash,vscode,vim,git"/>
-<img src="https://raw.githubusercontent.com/leonardoamici/leonardoamici/output/snake.svg" alt="Snake animation" />
